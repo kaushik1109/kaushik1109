@@ -64,6 +64,4 @@ LangChain • RAG • Vector Databases • Knowledge Graphs
 
 📍 Stuttgart, Germany
 
-💼 LinkedIn: [Your LinkedIn]
-
 📧 [kaushik110902@gmail.com](mailto:kaushik110902@gmail.com)
